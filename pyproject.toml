@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "aoc2021"
+version = "0.1.0"
+description = ""
+authors = ["Avery Crespi <averycrespi@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+black = "^21.12b0"
+flake8 = "^4.0.1"
+bandit = "^1.7.1"
+mypy = "^0.910"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
