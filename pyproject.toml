@@ -6,6 +6,7 @@ authors = ["Avery Crespi <averycrespi@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+scikit-image = "^0.19.1"
 
 [tool.poetry.dev-dependencies]
 black = "^21.12b0"
