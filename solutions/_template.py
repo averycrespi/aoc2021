@@ -9,4 +9,4 @@ def part2():
     pass
 
 
-lines = read_input(0)
+lines = read_input(0, sample=True)
